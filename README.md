@@ -83,22 +83,10 @@ Me chamo Henrich Marin Monteiro, Made in Italy, Morando em Santo André-SP. Conc
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<br clear="both"/>
+<br/>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HenrichMarin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <img src="PBH LOGO.png" alt="Logo Programmed By Henri" width="80%" />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenrichMarin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
